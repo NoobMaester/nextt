@@ -1,0 +1,13 @@
+.tit{
+    padding: 10px;
+}
+.single{
+    padding: 2px 16px;
+    background: #fff;
+    display: block;
+    margin: 20px 10px;
+    border-bottom: 8px solid #fff;
+}
+.single:hover{
+    border-bottom: 8px solid #4979ff;
+}
